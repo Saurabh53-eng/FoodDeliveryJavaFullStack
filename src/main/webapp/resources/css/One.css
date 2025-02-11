@@ -1,0 +1,14 @@
+@charset "UTF-8";
+*{
+	background-color: aqua;
+}
+.success {
+	background-color: green;
+	width: 150px;
+	height: 40px;
+	padding: 10px;
+	border: 1px solid;
+	color: white;
+	font-size: 160px;
+	font-weight: bold;
+}
